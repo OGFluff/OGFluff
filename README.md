@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OGFluff
 - 👀 I’m interested in the fundamentals of coding
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 📫 How to reach me lol don't
 
 <!---
 OGFluff/OGFluff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
